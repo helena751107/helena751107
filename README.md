@@ -3,17 +3,21 @@
 **말로만 · 폰 하나로 · 누나를 위해** — *words only · one phone · for my sister.*
 
 > **A one-woman media company — and a 24/7 care system — running on a single smartphone.**
->
 > One old Galaxy S21 · ~$20 a month · no servers · no team · no investors.
 > **485 commits · 895 files · 129 notebooks · 8 shipped systems · 3 weeks.**
->
-> **3 AI agents** write, design, and patch. It publishes webzines and videos, runs a voice
-> studio, broadcasts to YouTube, and watches over my sister — while teaching you to do the same.
-> **The entire stack is open source. Fork it, cite it, run it on the phone in your pocket.**
+
+> **Flagship: a Mobile-First Multi-Platform Content Foundry Boilerplate — powered by Termux/PRoot & MCP.**
 
 ![hardware](https://img.shields.io/badge/hardware-1%C3%97%20Galaxy%20S21-9cf) ![cost](https://img.shields.io/badge/cost-~%2420%2Fmonth-success) ![commits](https://img.shields.io/badge/commits-485-blue) ![systems](https://img.shields.io/badge/systems-8%20shipped-brightgreen)
 
 ---
+
+## The flex
+
+- **Zero PC** — runs 100% on an Android smartphone (Galaxy S21). No desktop, no server.
+- **MCP-Driven Verification** — every step hard-checked by `returncode == 0`. No agent hallucinations.
+- **Resilience First** — a preflight system that self-heals quotas, cookies, and sessions before publishing.
+- **Multi-Channel Pipeline** — Git SSOT → PWA / Tistory / YouTube / Telegram gate / bait channels.
 
 ## One phone. The whole stack.
 
@@ -43,12 +47,26 @@
 - **The cost is the flex.** One phone, $20 a month. If a studio runs on hardware you'd recycle, so can yours.
 - **It's a curriculum, not a résumé.** Every decision, every conversation, every notebook is public — all 129 of them.
 
-## Steal it properly
+## The honest part
 
-```
-one phone · $20 · for the person you love
-```
+This isn't a money-grab automation account. It's a **turn-key system** — built by a developer, gifted to the person it's for:
 
-Start here → [**helena_phone**](https://github.com/helena751107/helena_phone) → **Use this template** → fill in your name, blog, channel → run.
+- **Care, not clicks.** A care daemon watches over my sister 24/7; the publishing runs on the same phone.
+- **Open and owned.** Every line of code, every decision, every notebook is public. MIT-licensed, one owner, one team.
+- **Resilient, not flashy.** Preflight checks, `returncode == 0` gates, self-healing sessions — built to survive, not to impress.
+- **One phone, $20.** No burn-rate, no investors, nothing to hide. Just family care, made into a product.
+
+> The moat isn't the code — it's that this story is actually true.
+
+## One-command setup
+
+```bash
+# On your phone (Termux/proot) — one line:
+curl -sL https://raw.github.com/helena751107/helena_phone/main/g/install.sh | bash
+
+# Full bootstrap — make it yours:
+git clone https://github.com/helena751107/helena_phone.git
+cd helena_phone && bash navigator.sh
+```
 
 > **Cite this:** Helena Park — *"Words only · One phone · For my sister"*, a one-person media studio on a single smartphone. <https://github.com/helena751107>
