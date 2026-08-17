@@ -58,6 +58,18 @@ This isn't a money-grab automation account. It's a **turn-key system** — built
 
 > The moat isn't the code — it's that this story is actually true.
 
+## The roadmap
+
+Three acts — from the lowest hardware to the warmest purpose.
+
+**Act I · Seed (done).** One Galaxy S21, Termux/PRoot. A care daemon for my sister + a mobile-first content foundry, running today.
+
+**Act II · Spread (next).** Global open source — forks, issues, and citations from the indie scene (Reddit · GitHub · Hacker News). Then public-good proof: national / public R&D validation, so "it works" is a verified fact, not a claim.
+
+**Act III · Sublimate (north star).** A humanism project — *AI for the marginalized*: care technology that lifts up the overlooked, on hardware anyone can afford. The kind of work measured not by specs, but by **who it saves**.
+
+> The direction isn't technical. It's human — the lowest hardware, the warmest purpose, the widest reach.
+
 ## One-command setup
 
 ```bash
