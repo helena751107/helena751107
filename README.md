@@ -2,41 +2,53 @@
 
 **말로만 · 폰 하나로 · 누나를 위해** — *words only · one phone · for my sister.*
 
-> One Galaxy S21. ~$20 a month. A one-person media studio that runs entirely on a phone —
-> a **care daemon** for my sister by day, a **publishing factory** by night.
-> All of it open source. All of it built to be copied, not just admired.
+> **A one-woman media company — and a 24/7 care system — running on a single smartphone.**
+>
+> One old Galaxy S21 · ~$20 a month · no servers · no team · no investors.
+> **485 commits · 895 files · 129 notebooks · 8 shipped systems · 3 weeks.**
+>
+> **3 AI agents** write, design, and patch. It publishes webzines and videos, runs a voice
+> studio, broadcasts to YouTube, and watches over my sister — while teaching you to do the same.
+> **The entire stack is open source. Fork it, cite it, run it on the phone in your pocket.**
 
-![status](https://img.shields.io/badge/running-one%20phone%20·%20%2420%2Fmo-9cf) ![license](https://img.shields.io/badge/license-open%20source-brightgreen) ![philosophy](https://img.shields.io/badge/philosophy-open%20%26%20teach-blue)
+![hardware](https://img.shields.io/badge/hardware-1%C3%97%20Galaxy%20S21-9cf) ![cost](https://img.shields.io/badge/cost-~%2420%2Fmonth-success) ![commits](https://img.shields.io/badge/commits-485-blue) ![systems](https://img.shields.io/badge/systems-8%20shipped-brightgreen)
 
 ---
 
-## What's here
+## One phone. The whole stack.
 
-I turned a single aging phone into a full studio — then stopped building and started teaching.
-The code is the easy part. The **performance of actually living this story** is the part you can't copy.
+| Layer | What actually runs on it |
+|-------|--------------------------|
+| **AI agents** | Claude Code · Grok · Aider — three agents that write, design, and patch code |
+| **Voice studio** | TTS (Piper · Edge TTS) + RVC voice cloning |
+| **Video factory** | URL → short-form film: Ken Burns motion, color grade, burned-in captions |
+| **Publishing** | Markdown → PWA webzine → Tistory / Naver / Threads, fully automated |
+| **Broadcast** | YouTube OAuth uploads, 5 Telegram bots, Discord reporting |
+| **Care system** | A care daemon + a Tailscale mesh — remote care for the person I love |
+| **Infra** | GitHub Actions CI, reusable workflows, one-command self-healing sessions |
 
-| Repo | What it is |
-|------|-----------|
-| [**helena_phone**](https://github.com/helena751107/helena_phone) | The hub — the studio's boilerplate & tutorials. Clone it, run it on your own phone. |
-| [**helena-piano**](https://github.com/helena751107/helena-piano) | A classical-music webzine — piano rendering (tech) + listening, reviews, interviews (magazine). |
-| [**helena-metalcare**](https://github.com/helena751107/helena-metalcare) | Getting to truly know my sister's schizophrenia — voices as audio, a doctor's counsel, a patient's script. |
+## The repos
+
+| Repo | What it does |
+|------|-------------|
+| [**helena_phone**](https://github.com/helena751107/helena_phone) | The hub & boilerplate — the whole studio, ready to fork. |
+| [**helena-piano**](https://github.com/helena751107/helena-piano) | A classical-music webzine — piano rendered on-device + reviews & interviews. |
+| [**helena-metalcare**](https://github.com/helena751107/helena-metalcare) | Getting to truly know my sister's schizophrenia — voices as audio, a doctor's counsel. |
 | [**helana-faith**](https://github.com/helena751107/helana-faith) | Faith as fantasy — a doubting Thomas seeking belief through doubt, not doctrine. |
 | [**helana_log**](https://github.com/helena751107/helana_log) | How Helena lives — the care daemon, from design to daily life. |
 
-## The philosophy
+## Why people fork it
 
-- **The moat is performance, not code.** Everything reproducible gets published. What can't be copied is the fact that I actually lived it.
-- **Built on a phone, on $20.** If a studio runs on an old Galaxy S21, so can yours. That's the whole point.
-- **Open and teach.** Every decision, every conversation, every notebook is public — a curriculum, not a résumé.
+- **The moat is performance, not code.** Everything reproducible is published. What you can't copy is that I actually lived this story.
+- **The cost is the flex.** One phone, $20 a month. If a studio runs on hardware you'd recycle, so can yours.
+- **It's a curriculum, not a résumé.** Every decision, every conversation, every notebook is public — all 129 of them.
 
-## Build it yourself
-
-Start here → [**helena_phone**](https://github.com/helena751107/helena_phone) → **Use this template** → fill in your name, blog, channel → run.
+## Steal it properly
 
 ```
 one phone · $20 · for the person you love
 ```
 
----
+Start here → [**helena_phone**](https://github.com/helena751107/helena_phone) → **Use this template** → fill in your name, blog, channel → run.
 
-> © 2026 Helena Park. Built in the open, on one phone, for my sister.
+> **Cite this:** Helena Park — *"Words only · One phone · For my sister"*, a one-person media studio on a single smartphone. <https://github.com/helena751107>
