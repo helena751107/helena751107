@@ -8,7 +8,22 @@
 
 > **Flagship: a Mobile-First Multi-Platform Content Foundry Boilerplate — powered by Termux/PRoot & MCP.**
 
-![hardware](https://img.shields.io/badge/hardware-1%C3%97%20Galaxy%20S21-9cf) ![cost](https://img.shields.io/badge/cost-~%2420%2Fmonth-success) ![commits](https://img.shields.io/badge/commits-489-blue) ![systems](https://img.shields.io/badge/systems-8%20shipped-brightgreen)
+![hardware](https://img.shields.io/badge/hardware-1%C3%97%20Galaxy%20S21-9cf) ![cost](https://img.shields.io/badge/cost-~%2420%2Fmonth-success) ![commits](https://img.shields.io/badge/commits-489-blue) ![systems](https://img.shields.io/badge/systems-8%20shipped-brightgreen) ![license](https://img.shields.io/badge/license-MIT-lightgrey) ![last-commit](https://img.shields.io/github/last-commit/helena751107/helena_phone)
+
+```text
+$ whoami
+  a native South Korean developer — not a transplant, not a rebrand
+
+$ ls /hardware
+  one Galaxy S21   (Termux + PRoot = the only PC)
+
+$ grep -r purpose .
+  by day:   care for my sister 24/7
+  by night: publish to the world
+
+$ ./monthly-bill
+  ~$20   no servers · no team · no investors
+```
 
 ---
 
