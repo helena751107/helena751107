@@ -12,6 +12,18 @@
 
 ---
 
+## The origin
+
+**Made in Korea — by a native South Korean developer. Not a transplant, not a rebrand.**
+
+No M3 Max in a Palo Alto garage. No A100 cluster. No runway, no team, nothing to perform.
+
+One developer, in Korea (Incheon/Seoul), on **one old Galaxy S21** — Termux + PRoot as the only PC — shipping a global boilerplate for **~$20 a month**. One reason to keep going: a sister to care for.
+
+The code is global, so the world can fork it. The story is Korean, because that's the truth. **Both are the point.**
+
+---
+
 ## The flex
 
 - **Zero PC** — runs 100% on an Android smartphone (Galaxy S21). No desktop, no server.
