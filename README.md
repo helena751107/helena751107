@@ -4,11 +4,11 @@
 
 > **A one-woman media company — and a 24/7 care system — running on a single smartphone.**
 > One old Galaxy S21 · ~$20 a month · no servers · no team · no investors.
-> **485 commits · 895 files · 129 notebooks · 8 shipped systems · 3 weeks.**
+> **489 commits · 893 files · 129 notebooks · 8 shipped systems · 3 weeks.**
 
 > **Flagship: a Mobile-First Multi-Platform Content Foundry Boilerplate — powered by Termux/PRoot & MCP.**
 
-![hardware](https://img.shields.io/badge/hardware-1%C3%97%20Galaxy%20S21-9cf) ![cost](https://img.shields.io/badge/cost-~%2420%2Fmonth-success) ![commits](https://img.shields.io/badge/commits-485-blue) ![systems](https://img.shields.io/badge/systems-8%20shipped-brightgreen)
+![hardware](https://img.shields.io/badge/hardware-1%C3%97%20Galaxy%20S21-9cf) ![cost](https://img.shields.io/badge/cost-~%2420%2Fmonth-success) ![commits](https://img.shields.io/badge/commits-489-blue) ![systems](https://img.shields.io/badge/systems-8%20shipped-brightgreen)
 
 ---
 
