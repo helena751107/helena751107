@@ -33,7 +33,7 @@ $ ./monthly-bill
 
 No M3 Max in a Palo Alto garage. No A100 cluster. No runway, no team, nothing to perform.
 
-One developer, in Korea (Incheon/Seoul), on **one old Galaxy S21** — Termux + PRoot as the only PC — shipping a global boilerplate for **~$20 a month**. One reason to keep going: a sister to care for.
+One developer, in Incheon (South Korea), on **one old Galaxy S21** — Termux + PRoot as the only PC — shipping a global boilerplate for **~$20 a month**. One reason to keep going: a sister to care for.
 
 The code is global, so the world can fork it. The story is Korean, because that's the truth. **Both are the point.**
 
