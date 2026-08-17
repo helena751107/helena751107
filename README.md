@@ -14,7 +14,7 @@
 
 ```text
 $ whoami
-  a native South Korean developer — not a transplant, not a rebrand
+  not a developer — a brother, fourteen-hour days, built by voice
 
 $ ls /hardware
   one Galaxy S21   (Termux + PRoot = the only PC)
@@ -31,11 +31,13 @@ $ ./monthly-bill
 
 ## The origin
 
-**Made in Korea — by a native South Korean developer. Not a transplant, not a rebrand.**
+**Made in Korea — not a developer. Not a transplant, not a rebrand.**
 
 No M3 Max in a Palo Alto garage. No A100 cluster. No runway, no team, nothing to perform.
 
-One developer, in Incheon (South Korea), on **one old Galaxy S21** — Termux + PRoot as the only PC — shipping a global boilerplate for **~$20 a month**. One reason to keep going: a sister to care for.
+Not a developer — a younger brother in Incheon (South Korea), fourteen-hour days of physical labor, and in the cracks of it, on **one old Galaxy S21** — Termux + PRoot as the only PC — all of it spoken into a terminal, not typed. One reason to keep going: a sister to care for.
+
+The nobles take a walk to rest. I rest by working.
 
 The code is global, so the world can fork it. The story is Korean, because that's the truth. **Both are the point.**
 
@@ -78,7 +80,7 @@ The code is global, so the world can fork it. The story is Korean, because that'
 
 ## The honest part
 
-This isn't a money-grab automation account. It's a **turn-key system** — built by a developer, gifted to the person it's for:
+This isn't a money-grab automation account. It's a **turn-key system** — built by a brother (not a developer), gifted to the person it's for:
 
 - **Care, not clicks.** A care daemon watches over my sister 24/7; the publishing runs on the same phone.
 - **Open and owned.** Every line of code, every decision, every notebook is public. MIT-licensed, one owner, one team.
