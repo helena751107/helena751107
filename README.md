@@ -1,5 +1,7 @@
 # Helena Park
 
+![Helena Park — a one-woman media studio on one phone](assets/profile-banner.jpg)
+
 **말로만 · 폰 하나로 · 누나를 위해** — *words only · one phone · for my sister.*
 
 > **A one-woman media company — and a 24/7 care system — running on a single smartphone.**
